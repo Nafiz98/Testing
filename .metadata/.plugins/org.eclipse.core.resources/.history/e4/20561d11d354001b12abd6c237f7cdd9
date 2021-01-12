@@ -1,0 +1,42 @@
+
+import java.util.Scanner;
+
+
+public class ProblemSolving {
+
+	public static void main(String []args) {
+		
+		//Write a Java program to print the sum of two numbers.//
+		
+		int num1 = 84;
+		int num2 = 35;
+		
+		System.out.println(num1 + num2);
+		
+		
+		
+		//Write a Java program to divide two numbers and print on the screen.//
+		
+		int num3 = 50;
+		int num4 = 3;
+		
+		System.out.println(num3 / num4);
+	
+		
+		
+		//Write a Java program that takes two numbers as input and display the product of two numbers.//
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Input first number: ");
+		int numberOne = input.nextInt();
+		System.out.println("Input second number: ");
+		int numberTwo = input.nextInt();
+		System.out.println(numberOne * numberTwo);
+		input.close();
+		
+		
+		
+	}
+	
+	
+}

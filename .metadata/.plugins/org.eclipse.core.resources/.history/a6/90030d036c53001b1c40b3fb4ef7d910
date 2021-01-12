@@ -1,0 +1,33 @@
+
+import java.util.Scanner;
+
+
+public class ProblemSolving {
+
+	public static void main(String []args) {
+		
+		//Write a Java program to print the sum of two numbers.//
+		
+		int num1 = 84;
+		int num2 = 35;
+		
+		System.out.println(num1 + num2);
+		
+		
+		
+		//Write a Java program to divide two numbers and print on the screen.//
+		
+		int num1 = 50;
+		int num2 = 3;
+		
+		System.out.println(num3 / num4);
+	
+		
+		
+		
+		
+		
+	}
+	
+	
+}
